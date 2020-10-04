@@ -79,6 +79,6 @@ function getChar() {
         } else {
             console.log('已经输出完毕!');
         }
-    }, 1);
+    }, 50);
 }
 getChar();
